@@ -1,12 +1,11 @@
 // Example
-window.alert("Hello World!");
-\\
-var x = "position"
-var y = "place"
-var z = "spouse"
-var n = number
 
 
-window.alert("You will be a position in place, and married to spouse with number kids");
+var x = "nothing"
+var y = "Milan"
+var z = "no one"
+var n = 0
 
-consol.log(You will be a X in Y, and married to Z with N kids)
+window.alert("You will be a  " + x + " in " + y + ", and married to " + z + " with " + n + " kids");
+
+console.log("You will be a  " + x + " in " + y + ", and married to " + z + " with " + n + " kids");

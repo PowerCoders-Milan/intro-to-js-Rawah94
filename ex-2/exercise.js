@@ -1,11 +1,12 @@
 // Example
-window.alert("Hello World!");
 
-\\
-var a = birth year
+var a = 1994
 
-var b = future year
+var b = 2023
 
 output = b-a
 
-"I will be either output in b"
+window.alert("I will be " b-a " in " b " ")
+
+console.log("I will be  " b-a "  in " b " ")
+

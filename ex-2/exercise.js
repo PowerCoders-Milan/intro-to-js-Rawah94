@@ -1,12 +1,15 @@
 // Example
 
-var a = 1994
 
-var b = 2023
+var a = prompt("what year were you born in?")
 
-output = b-a
+var b = prompt("pick a future year")
 
-window.alert("I will be " b-a " in " b " ")
+var x = b-a
 
-console.log("I will be  " b-a "  in " b " ")
+var y = x-1
+
+window.alert("I will be " + x +  "  or " + y + " in " + b + " ")
+
+console.log("I will be  " + x + "  or " + y + "  in " + b + " ")
 
